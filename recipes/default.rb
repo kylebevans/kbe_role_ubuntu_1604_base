@@ -6,3 +6,6 @@
 # Copyright Holder Email:: kylebe@gmail.com
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
+
+include_recipe 'kbe_login_banner'
+include_recipe 'kbe_ssh'

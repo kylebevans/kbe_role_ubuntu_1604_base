@@ -5,3 +5,6 @@ license 'all_rights'
 description 'Installs/Configures kbe_role_ubuntu_1604_base'
 long_description 'Installs/Configures kbe_role_ubuntu_1604_base'
 version '0.1.0'
+
+depends 'kbe_login_banner'
+depends 'kbe_ssh'
