@@ -9,3 +9,4 @@
 
 include_recipe 'kbe_login_banner'
 include_recipe 'kbe_ssh'
+include_recipe 'kbe_rsyslog'
